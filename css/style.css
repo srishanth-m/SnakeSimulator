@@ -28,6 +28,10 @@
     background-color: rgb(8, 8, 8);
 }
 
+.snake{
+    background-color: antiquewhite;
+}
+
 .food{
     background-color: rgb(243, 37, 37);
 }
